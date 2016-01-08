@@ -1,0 +1,2 @@
+defmodule BlogApp do
+end
