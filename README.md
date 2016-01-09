@@ -1,4 +1,5 @@
-# ElixirPracticeApps
+# Elixir Practice Apps
 
-**TODO: Add description**
-
+# General mix
+# Ecto setup, configure, update
+# Plug
