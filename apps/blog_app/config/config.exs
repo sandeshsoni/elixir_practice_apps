@@ -28,3 +28,10 @@ use Mix.Config
 # here (which is why it is important to import them last).
 #
 #     import_config "#{Mix.env}.exs"
+
+config :blog_app, BlogApp.Repo,
+  adapter: Ecto.Adapters.Postgres,
+  database: "db_elixir_practice",
+  username: "usr_elixir_practice",
+  password: "",
+  hostname: "localhost"
